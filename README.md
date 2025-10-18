@@ -28,8 +28,8 @@ python3 main.py
 
 ## Results
 - **Videos**:
-  - [Kalman Tracking](https://youtu.be/r3TyD34WdHU) (upload `output/track_test_kalman.mp4` to YouTube).
-  - [Baseline Tracking](https://youtu.be/kJYEnY9YoNg) (upload `output/track_test_baseline.mp4` to YouTube).
+  - [Kalman Tracking](https://youtu.be/r3TyD34WdHU).
+  - [Baseline Tracking](https://youtu.be/kJYEnY9YoNg).
 - **Metrics Graph**: [metrics.png](output/metrics.png) shows Custom Metric, IoU, and 1 - Jitter over time for both methods.
 
 ### Performance Comparison
