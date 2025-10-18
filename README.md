@@ -2,6 +2,8 @@
 
 This repository contains a multi-object tracking solution using YOLOv8 on the Waymo Open Dataset, enhanced with a Kalman Filter for trajectory smoothing and a custom metric combining IoU and Jitter. The project compares the proposed method with a baseline approach.
 
+Even though it is a very simple project, it will serve as a core for a future work.
+
 ## Overview
 - **Dataset**: Waymo Open Dataset (training segment, ~1000 frames).
 - **Model**: Pretrained YOLOv8n (no fine-tuning yet).
